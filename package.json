@@ -1,9 +1,9 @@
 {
-    "name": "react-hooks-redux-registration-login-example",
+    "name": "react-redux-login",
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cornflourblue/react-hooks-redux-registration-login-example.git"
+        "url": "https://github.com/wasswarichard/react-redux-login"
     },
     "license": "MIT",
     "scripts": {
